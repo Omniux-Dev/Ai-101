@@ -1,6 +1,4 @@
 import { Metadata } from 'next';
-import Image from 'next/image';
-import { Document } from 'react-pdf';
 
 export default async function Home() {
 	// return (
