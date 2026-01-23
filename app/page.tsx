@@ -53,9 +53,9 @@ export default async function Home() {
 }
 
 export const metadata: Metadata = {
-	title: 'Helping you build a legendary business | OMNIUX',
+	title: 'AI SEO 101 | OMNIUX',
 	description:
-		'A marketing team, finance gurus, & tech department. Business accelerators at your service',
+		'Is your business appearing in ChatGPT? Learn how to optimize your web presence for the future of search.',
 	authors: [
 		{
 			name: 'OMNIUX',
@@ -64,16 +64,16 @@ export const metadata: Metadata = {
 	openGraph: {
 		type: 'website',
 		locale: 'en_US',
-		url: 'https://web.omniux.io/',
-		title: 'Helping you build a legendary business | OMNIUX',
+		url: 'https://ai101.omniux.io/',
+		title: 'AI SEO 101 | OMNIUX',
 		description:
-			'A marketing team, finance gurus, & tech department. Business accelerators at your service',
+			'Is your business appearing in ChatGPT? Learn how to optimize your web presence for the future of search.',
 		images: {
 			url: `https://web.omniux.io/og-image.png`,
 			width: 800,
 			height: 600,
-			alt: 'Helping you build a legendary business | OMNIUX.',
+			alt: 'AI SEO 101 | OMNIUX.',
 		},
-		siteName: 'OMNIUX Pitch Deck',
+		siteName: 'AI SEO 101 | OMNIUX',
 	},
 };
