@@ -53,7 +53,7 @@ export default async function Home() {
 }
 
 export const metadata: Metadata = {
-	title: 'How Do I Appear in ChatGPT? | OMNIUX',
+	title: 'How Do We Appear in ChatGPT? | OMNIUX',
 	description:
 		'Is your business appearing in ChatGPT? Learn how to optimize your web presence for the future of search.',
 	authors: [
@@ -65,16 +65,16 @@ export const metadata: Metadata = {
 		type: 'website',
 		locale: 'en_US',
 		url: 'https://ai101.omniux.io/',
-		title: 'How Do I Appear in ChatGPT? | OMNIUX',
+		title: 'How Do We Appear in ChatGPT? | OMNIUX',
 		description:
 			'Is your business appearing in ChatGPT? Learn how to optimize your web presence for the future of search.',
 		images: {
 			url: `https://ai101.omniux.io/og-image.png`,
 			width: 800,
 			height: 600,
-			alt: 'How Do I Appear in ChatGPT? | OMNIUX.',
+			alt: 'How Do We Appear in ChatGPT? | OMNIUX.',
 		},
 		emails: ['contact@omniux.io'],
-		siteName: 'How Do I Appear in ChatGPT? | OMNIUX',
+		siteName: 'How Do We Appear in ChatGPT? | OMNIUX',
 	},
 };
