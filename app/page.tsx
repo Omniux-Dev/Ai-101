@@ -53,7 +53,7 @@ export default async function Home() {
 }
 
 export const metadata: Metadata = {
-	title: 'AI SEO 101 | OMNIUX',
+	title: 'AI Engine Optimization 101 | OMNIUX',
 	description:
 		'Is your business appearing in ChatGPT? Learn how to optimize your web presence for the future of search.',
 	authors: [
@@ -65,15 +65,16 @@ export const metadata: Metadata = {
 		type: 'website',
 		locale: 'en_US',
 		url: 'https://ai101.omniux.io/',
-		title: 'AI SEO 101 | OMNIUX',
+		title: 'AI Engine Optimization 101 | OMNIUX',
 		description:
 			'Is your business appearing in ChatGPT? Learn how to optimize your web presence for the future of search.',
 		images: {
-			url: `https://web.omniux.io/og-image.png`,
+			url: `https://ai101.omniux.io/og-image.png`,
 			width: 800,
 			height: 600,
-			alt: 'AI SEO 101 | OMNIUX.',
+			alt: 'AI Engine Optimization 101 | OMNIUX.',
 		},
-		siteName: 'AI SEO 101 | OMNIUX',
+		emails: ['contact@omniux.io'],
+		siteName: 'AI Engine Optimization 101 | OMNIUX',
 	},
 };
